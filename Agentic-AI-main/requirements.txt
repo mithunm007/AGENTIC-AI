@@ -1,0 +1,8 @@
+ollama
+SpeechRecognition
+coqui-tts
+sounddevice
+pyttsx3
+PyAudio
+time
+pymarkdownlnt==0.9.15
